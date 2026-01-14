@@ -1,0 +1,17 @@
+body {
+  background-color: #fff0f5;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #d63384;
+}
+
+.produto {
+  border: 1px solid #d63384;
+  padding: 10px;
+  margin: 20px auto;
+  width: 200px;
+  border-radius: 10px;
+}
